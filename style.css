@@ -1,4 +1,8 @@
 body {
     font-size: larger;
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    margin: 20%;
     
 }
