@@ -1,6 +1,6 @@
 const clickMe = document.getElementByClassName("btn-primary");
 const searchBtn = document.getElementByClassName("");
-const formatList = document.querySelector("");
+const formatList = document.getElementByClassName("form-select");
 
 searchBtn.addEventListener();
 
